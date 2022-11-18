@@ -10,3 +10,7 @@ h1 {
 @media screen {
    /* Hello Mediaa */
 }
+
+p {
+   color: aqua;
+}
